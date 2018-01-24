@@ -1,0 +1,7 @@
+## Interface: 40300
+## Author: Botnet
+## Notes: Automatically hide distracting things in Arena.
+## Version: 1
+## Title: TunnelVision
+## SavedVariablesPerCharacter: HCBxpos, HCBypos, HCBkeyable, HCBuseralpha
+TunnelVision.lua
